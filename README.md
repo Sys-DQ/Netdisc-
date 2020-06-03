@@ -58,7 +58,7 @@ https://www.assys.xin/netdisc-reverse-proxy
 <!-- /wp:list -->
 
 <!-- wp:quote -->
-<blockquote class="wp-block-quote"><p>我会定时进行整理并发布网友们提供的资源下载地址并发布在<a rel="noreferrer noopener" href="https://www.assys.xin" target="_blank">本博客</a>和 <a rel="noreferrer noopener" href="https://github.com/Sys-DQ/Netdisc-Reverse-proxy" target="_blank">GitHub</a> 中</p></blockquote>
+<blockquote class="wp-block-quote"><p>我会定时进行整理并发布网友们提供的资源下载地址并发布在<a rel="noreferrer noopener" href="https://www.assys.xin" target="_blank">博客</a>和 <a rel="noreferrer noopener" href="https://github.com/Sys-DQ/Netdisc-Reverse-proxy" target="_blank">GitHub</a> 中</p></blockquote>
 <!-- /wp:quote -->
 
 <!-- wp:heading {"level":3} -->
