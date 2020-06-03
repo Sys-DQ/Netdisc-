@@ -1,4 +1,4 @@
-# Netdisc-
+# Netdisc Reverse Proxy
 ASSYS 博客提倡的 Netdisc 反代计划
 <!-- wp:heading -->
 <h2>前言</h2>
